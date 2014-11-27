@@ -23,9 +23,9 @@ $notify_script_name = 'notify_from_peer.php';
 
 // TODO: edit your entry to reflect the real path to the receive script
 $peer_list = array(
-  'annie' =>  'http://www.annie-suantak.com/',
-  'daniel'=>  'http://www.danielishere.com/', 
-  'ken'   =>  'http://www.skctech.net/', 
+  'annie' =>  'http://www.annie-suantak.com/fileserver/',
+  'daniel'=>  'http://www.danielishere.com/fileserver/', 
+  'ken'   =>  'http://www.skctech.net/fileserver/', 
   'yulin' =>  'http://www.yulinye.com/fileserver/'
   );
 
