@@ -1,0 +1,16 @@
+# Confidentials
+yulin_server/confidentials.php
+
+#logs
+yulin_server/file_server_log.txt
+
+# Compiled java code
+*.class
+
+# images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
